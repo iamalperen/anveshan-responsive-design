@@ -5,7 +5,7 @@ The implementation of the [design](design/Anveshan.psd)
 
 ## Demo
 
-http://alperen.me/demo/anveshan-responsive-design/
+https://iamalperen.github.io/demo/anveshan-responsive-design/
 
 
 ## Details
