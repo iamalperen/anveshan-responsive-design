@@ -27,4 +27,4 @@ https://iamalperen.github.io/demo/anveshan-responsive-design/
 
 
 ## Author and License
-Created and maintained by [Alperen](https://github.com/iamalperen) under [MIT](LICENCE.md) License
+Created and maintained by [Alperen](https://github.com/iamalperen) under [MIT](LICENSE.md) License
